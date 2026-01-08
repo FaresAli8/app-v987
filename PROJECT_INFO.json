@@ -1,0 +1,19 @@
+{
+  "project_name": "ProCalculator",
+  "package_name": "com.procalc.app",
+  "features": [
+    "Modern Material 3 UI",
+    "Order of Operations Logic (Shunting-yard)",
+    "Arabic Language Support",
+    "History Log",
+    "Advanced Operations (Sqrt, Power, Parentheses)",
+    "Dark Mode Support"
+  ],
+  "architecture": "MVVM",
+  "constraints_met": [
+    "No hyphens in Gradle accessors",
+    "Full Version Catalog used",
+    "Proper namespace definition",
+    "RTL ready"
+  ]
+}
